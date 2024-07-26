@@ -1,0 +1,17 @@
+0,Brand,Type,Battery _capacity,model,seats,price,age,annual_savings,BodyStyle,RapidCharge
+1,GEMPL,twowheeler,3,Ampere nexus,1,120000,25-35,36445,electric bike,3.3
+2,ATHER,twowheeler,3.7,Ather rizta,1,144999,25-35,9972,electric bike,4.3
+3,ATUL,threewheeler,12,atul elite rickshaw,4,112000,25-40,108730,electric ricksaw,10
+4,BAJAJ,twowheeler,3.2,Chetak Premium,1,147243,25-35,30000,Steel Body,4.3
+5,Electrotherm ,twowheeler,1.25,YoBykes,1,58000,25-35,"34,500",Electric Scooters,5
+6,Hero Electric Vehicles,twowheeler,2,Optima CX 2.0,1,"83,300",25-35,"9,000",Electric Scooters,4.5
+7,Hyundai Motor India,four wheeler,39.2,Hyundai Kona Electric specs & features,5,2384000,25-35,615000,SUV,6.1
+8,JBM Group,four wheeler,180,Ecolife Electric,40,2000000,30-50,300000,Fully Built,9
+9,Mahindra & Mahindra Limited,threewheeler,10.24,ElectricCargo,1,120000,25-50,"1,80,000",Box body,4.5
+10,MG Motor,four wheeler,17.3,MG COMET EV,4,699000,30-50,"72,500",Hatchback,7
+11, Okinawa Autotech Internationall,twowheeler,3.6,OKHI-90,1,186000,25-35,,electric bike,6
+12,Olectra Greentech,four wheeler,900 ,v2 Electric Bus,40,2000000,30-50,300000,Fully Built,4
+13,Piaggio & C. S.p.A,twowheeler,1.4,Piaggio 1,1,150000,25-35,"19,000",electric bike,6
+14,Tata Motors Ltd,four wheeler,40.5,nexon ev,5,1949000,25-50,120000,Sport Utilities,6.72
+15,TVS Motor,twowheeler,2.2,iqube,1,94999,25-35,37500,Electric Scooters,2
+16,VE Commercial Vehicles ,four wheeler,78, Volvo XC40 Recharge,5,5815000,30-50,90000,Sport Utilities,28min
